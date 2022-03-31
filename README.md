@@ -1,6 +1,11 @@
 # Methods in genomic variant calling
 In this Repo we will cover the basics of germline and somatic variant calling as well as their annotation and visualisation. We will get to know workflows to perform variant calling, look at relevant file formats and discuss some variant calling applications in rare diseases, cancer genomics and population genomics
 
+Overview of somatic variant calling:
+
+![becnh](https://user-images.githubusercontent.com/97247515/160976071-d4d90444-15a5-42f8-926e-1b442eca1826.png)
+
+
 ## What variant calling is?
 Genomic variant calling entails identifying single nucleotide polymorphisms, small insertions and deletion (InDels) and larger variants (structural variants and copy-number variants) from next generation sequencing data.
 Variant calling is the process by which we identify variants from sequence data: 
