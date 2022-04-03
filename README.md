@@ -8,8 +8,14 @@ Overview of somatic variant calling:
 
 ## What variant calling is?
 Genomic variant calling entails identifying single nucleotide polymorphisms, small insertions and deletion (InDels) and larger variants (structural variants and copy-number variants) from next generation sequencing data.
-Variant calling is the process by which we identify variants from sequence data: 
 
+Variant Calling Workflow:
+
+![bam](https://user-images.githubusercontent.com/97247515/161425860-1bc5b1da-a028-4479-ab7a-0793e89ed22a.png)
+
+
+
+Variant calling is the process by which we identify variants from sequence data: 
 #### Genome sequencing allow us to find:
 1. SNVs (single nucleotide variants)
 2. CNVs (copy number variants)
