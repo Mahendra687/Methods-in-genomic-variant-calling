@@ -37,9 +37,12 @@ There are many ways in which you can study genetic variation however most studie
 3. [Population genetics](https://www.ebi.ac.uk/training/online/courses/human-genetic-variation-introduction/types-of-genetic-variation-studies/population-genetics/)
 
 ## Somatic versus germline variant calling
-In **germline** variant calling, the reference genome is the standard for the species of interest. This allows us to identify genotypes. As most genomes are diploid, we expect to see that at any given locus, either all reads have the same base, indicating homozygosity, or approximately half of all reads have one base and half have another, indicating heterozygosity. An exception to this would be the sex chromosomes in male mammals.
+In **germline** variant calling, the reference genome is the standard for the species of interest. This allows us to identify genotypes. As most genomes are diploid, we expect to see that at any given locus, either all reads have the same base, indicating homozygosity, or approximately half of all reads have one base and half have another, indicating heterozygosity. An exception to this would be the sex chromosomes in male mammals.In **somatic** variant calling, the reference is a related tissue from the same individual. Here, we expect to see mosaicism between cells.
 
-In **somatic** variant calling, the reference is a related tissue from the same individual. Here, we expect to see mosaicism between cells.
+Cancer Genomics Variant Calling:
+
+![cgv](https://user-images.githubusercontent.com/97247515/161426441-2a023d6e-e5db-4168-af3a-b807fca57603.png)
+
 
 ### Quick Reference Link:
 1. [DNA-Seq analysis pipeline](https://docs.gdc.cancer.gov/Data/Bioinformatics_Pipelines/DNA_Seq_Variant_Calling_Pipeline/#dna-seq-analysis-pipeline)
