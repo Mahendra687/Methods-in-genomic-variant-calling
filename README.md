@@ -49,6 +49,7 @@ Cancer Genomics Variant Calling:
 2. [EBI Training](https://www.ebi.ac.uk/training/)
 3. [Data Science Blog](https://www.reneshbedre.com/blog/vcfanot.html)
 4. [CSC Training](https://www.csc.fi/en/web/training/-/gatk2019)
+5. [Genomic Variant Analysis](https://github.com/Mahendra687/Genomic-Variant-Analysis)
 
 ### Study Material:
 1. [Genome Sciences Centre](https://www.westgrid.ca/sites/default/files/WestGridWebinar_BenchmarkingSimonChan_Sept2017.pdf)
